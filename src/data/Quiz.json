@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "question": "2 + 2 =",
+    "options": [
+      {
+        "answer": "It will be 6",
+        "isCorrect": false
+      },
+      {
+        "answer": "It could be 3",
+        "isCorrect": false
+      },
+      {
+        "answer": "Maybe 2",
+        "isCorrect": false 
+      },
+      {
+        "answer": "Yeah Fo sho 4",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "question": "What is the population of NYC?",
+    "options": [
+      {
+        "answer": "3 million",
+        "isCorrect": false
+      },
+      {
+        "answer": "8.4 million",
+        "isCorrect": true
+      },
+      {
+        "answer": "2.3 million",
+        "isCorrect": false
+      },
+      {
+        "answer": "12.9 million",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "question": "How many humans exist?",
+    "options": [
+      {
+        "answer": "5 billion",
+        "isCorrect": false
+      },
+      {
+        "answer": "100 thousand",
+        "isCorrect": false
+      },
+      {
+        "answer": "7 billion",
+        "isCorrect": false
+      },
+      {
+        "answer": "8 billion",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "question": "Is antarctica a country or a continent?",
+    "options": [
+      {
+        "answer": "Country",
+        "isCorrect": false
+      },
+      {
+        "answer": "Neither",
+        "isCorrect": false
+      },
+      {
+        "answer": "Both",
+        "isCorrect": false
+      },
+      {
+        "answer": "Continent",
+        "isCorrect": true
+      }
+    ]
+  }
+]
